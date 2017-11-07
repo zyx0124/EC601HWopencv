@@ -19,3 +19,11 @@ Exercise 3:
 After implement the python code, the results show different noise values outputs in Gaussian case and salt-and-pepper case with the kernel size from 3x3 to 5x5 to 7x7.
 In this exercise, I also use the Lenna picture. For the Gaussian case, the sigma value has more effects to the image. For the salt-pepper noise case, the pa value has effect on the black pixels, the pb value has effect on the white pixels.
 
+Exercise 4:
+
+1.  From the result images, it shows that the adaptive threshold image gives the best results.
+
+2.  Near the threshold pixel value, the perfromance of the image doesn't present well. It can not distinguishi the subtle changes.
+
+3.  The adaptive threshold is useful when there are the lightness of the image is quite different in different area of the image
+
