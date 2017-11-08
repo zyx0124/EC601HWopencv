@@ -27,3 +27,6 @@ Exercise 4:
 
 3.  The adaptive threshold is useful when there are the lightness of the image is quite different in different area of the image
 
+In-class Exercises: Template matching.
+
+I put the specific codes in the template python file, after running the program, the result is almost the same as the TA shown in clase. The location of the template image in the source image is [240,160] 
